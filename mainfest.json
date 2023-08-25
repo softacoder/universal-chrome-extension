@@ -1,0 +1,11 @@
+{
+  "name": "Cool concerts in my area",
+  "version": "1.0.0",
+  "description": "This is an extension to look up concerts in my area",
+  "manifest_version": 3,
+  "author": "softacoder",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Cool concerts in my area"
+  }
+}
